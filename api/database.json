@@ -1,0 +1,16 @@
+{
+  "complaints": [
+    {
+      "id": 1,
+      "desc": "Béna termék",
+      "complaints": "Panaszkodó",
+      "products": "Termék",
+      "type": "Típus"
+    },
+    {
+      "desc": "",
+      "products": "",
+      "id": 2
+    }
+  ]
+}
